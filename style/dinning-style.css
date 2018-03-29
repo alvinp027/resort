@@ -1,0 +1,66 @@
+
+.grill-board{
+		margin-top: 2%;
+	max-width:100%;
+	height:500px;
+	background-image: url("../images/lobster-Grill.jpg");
+  background-attachment: fixed;
+   background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 5%;
+
+}
+
+.grill-text{
+	color:white;
+	font-size:5.0em;
+	padding-top: 5%;
+	margin-left:6%;
+}
+
+
+
+
+
+.dinning-board{
+	margin-top: 2%;
+	max-width:100%;
+	height:500px;
+	background-image: url("../images/romantic-dinner.jpg");
+  background-attachment: fixed;
+   background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.dinning-board-text{
+	color:white;
+	font-size:5.0em;
+	padding-top: 15%;
+	margin-left:10%;
+}
+
+.private-dinner-text{
+	margin-top: 5%;
+	text-align: center;
+	font-size:36px;
+}
+
+.dinner-outside{
+
+	background-image: url("../images/outside-dinner.jpg");
+		margin-top: 2%;
+	max-width:100%;
+	height:500px;
+  background-attachment: fixed;
+   background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 5%;
+}
+
+
+.dinner-outside-text{
+	text-align: center;
+	font-size:3.0em;
+}
+
